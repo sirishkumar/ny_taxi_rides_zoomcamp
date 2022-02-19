@@ -7,9 +7,4 @@ sources:
 
   tables:
   - name: green_tripdata
-- name: staging_yellow
-  database: atomic-voice-338721
-  schema: nytaxi
-
-  tables:
   - name: yellow_tripdata
