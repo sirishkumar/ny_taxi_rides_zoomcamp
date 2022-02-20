@@ -1,1 +1,1 @@
-# ny_taxi_rides_zoomcamp
+# ELT Pipeline for nytaxi
